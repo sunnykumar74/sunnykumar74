@@ -8,7 +8,7 @@ I am a passionate web developer from Bihar, India, who loves creating functional
 
 ## 👨‍💻 About Me  
 
-- 🎓 Pursuing MCA at Vivekananda Global University (Graduating in 2025).  
+- 🎓 Pursuing MCA at Vivekananda Global University (postGraduating in 2025).  
 - 🌐 Skilled in web development technologies: HTML, CSS, JavaScript, Bootstrap, React, and more.  
 - 🎨 Expertise in crafting seamless user experiences and intuitive designs.  
 - ✨ Currently working on an **eKart website** for a company using modern web tools.  
